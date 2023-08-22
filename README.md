@@ -6,4 +6,4 @@ I am also the senior software engineer at The Michigan Daily. Formerly, I served
 
 Previously, I worked at The Texas Tribune as a data visuals fellow and an engineering fellow.
 
-I currently study computer science, science, technology, and society (STS), and digital studies at the University of Michigan.
+I study computer science and digital studies at the University of Michigan.
