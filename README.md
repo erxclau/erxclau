@@ -1,6 +1,6 @@
 # Hello! My name is Eric Lau
 
-I am the summer 2024 Washington Post Graphics intern.
+I am a graphics reporter at The Washington Post.
 
 I previously worked at The Michigan Daily, The San Francisco Standard, and The Texas Tribune as a software engineer and data journalist.
 
